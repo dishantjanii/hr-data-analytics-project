@@ -116,7 +116,6 @@ Some areas I would like to explore in future versions:
 ## Dashboard Preview
 
 Screenshot 2026-06-16 132810.png
-
 ---
 
 ## Author
