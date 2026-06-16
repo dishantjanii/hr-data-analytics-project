@@ -114,7 +114,8 @@ Some areas I would like to explore in future versions:
 ---
 
 ## Dashboard Preview
-[Screenshot 2026-06-16 132810.png](https://github.com/dishantjanii/hr-data-analytics-project/blob/584b47c6b3e5cb25cc1c236eae730bb5d08eed86/Screenshot%202026-06-16%20132810.png)
+<img width="575" height="323" alt="Screenshot 2026-06-16 132810" src="https://github.com/user-attachments/assets/b0d12f36-fc57-4d35-a71e-1c0975df7608" />
+
 ---
 
 ## Author
