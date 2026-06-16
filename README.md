@@ -115,7 +115,7 @@ Some areas I would like to explore in future versions:
 
 ## Dashboard Preview
 
-(Add screenshots of your Power BI dashboard here)
+Screenshot 2026-06-16 132810.png
 
 ---
 
